@@ -1,0 +1,8 @@
+
+.gd-back-artist-name {
+    /* text-align: center;
+    font-size: 40px; */
+    background: -webkit-linear-gradient(#0048ff, rgb(34, 255, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

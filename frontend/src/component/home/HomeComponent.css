@@ -1,0 +1,10 @@
+
+.hover-play-btn{
+    transition: transform 2s ease-in-out;
+}
+
+.each-playlist-card:hover .hover-play-btn{
+    display: block;
+    /* transform: translate(0,50px); */
+    transition-duration: 2s;
+}
